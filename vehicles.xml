@@ -5236,4 +5236,11 @@
     <manufacturer>Toyota</manufacturer>
     <type>Seasonal Reward</type>
   </row>
+  <row>
+    <ignore>748</ignore>
+    <name>1992 155 Q4</name>
+    <id>1393</id>
+    <manufacturer>Alfa Romeo</manufacturer>
+    <type>Seasonal Reward</type>
+  </row>
 </root>
